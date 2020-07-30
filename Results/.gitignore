@@ -1,2 +1,5 @@
 # Folders
 Results/
+
+# Except this file
+!.gitignore
