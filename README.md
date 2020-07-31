@@ -1,5 +1,5 @@
 # Merge-ATO-Outputs  
-Notebook demo of using Pandas to merge TDM-ATO Outputs using  two different methods  
+Jupyter notebook demo of using Pandas or Geopandas to merge TDM-ATO outputs into one table  
 
 ## Dependencies  
 
