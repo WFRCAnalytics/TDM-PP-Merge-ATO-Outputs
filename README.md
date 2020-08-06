@@ -1,5 +1,6 @@
 # Merge-ATO-Outputs  
-Jupyter notebook demo of using Pandas or Geopandas to merge TDM-ATO outputs into one table  
+Jupyter notebook example on how to use Pandas or Geopandas to merge TDM-ATO outputs into one table while updating the schema.  
+Some plotting and mapping examples are also included.
 
 ## Dependencies  
 
